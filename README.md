@@ -9,9 +9,9 @@ This repo consists of teaching materials (lectures) for DSBA, IT KMITL.
 |---|---|---|---|
 |Week 09| 2/10/2020 | Number Theory | [2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week9_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week9_4pages.pdf) |
 |Week 10| 9/10/2020 | Number Theory and Cryptography |[2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week10_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week10_4pages.pdf)|
-|Week 11| 16/10/2020 | Counting | |
-|Week 12| 23/10/2020 (new date TBA) | Relations | |
+|Week 11| 16/10/2020 | Counting | [2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week11_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week11_4pages.pdf) |
+|Week 12| 16/10/2020 | Relations | [2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week12_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week12_4pages.pdf) |
 |Week 13| 30/10/2020 | Graphs & Trees ||
-|Week 14| 6/11/2020 | Boolean Algebra | |
-|Week 15| 13/11/2020 | Modeling Computation | |
-|Week 16| 20/11/2020 (new date TBA) | Finite State Automata ||
+|Week 14| 30/10/2020 | Boolean Algebra | |
+|Week 15| 06/11/2020 | Modeling Computation | |
+|Week 16| 06/11/2020 | Finite State Automata ||
