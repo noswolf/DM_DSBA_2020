@@ -2,7 +2,7 @@
 
 This repo consists of teaching materials (lectures) for DSBA, IT KMITL.
 
-## Homework (Due 16/10/2020)
+## Homework (Due 16/11/2020)
 [Homework PDF](https://github.com/noswolf/DM_DSBA_2020/blob/master/Homework/Discrete_Maths_HW_DSBA_01-2020.pdf)
 ## Contents
 |Week| Date | Topic | Lecture Slides |
