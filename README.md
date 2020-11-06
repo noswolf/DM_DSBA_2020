@@ -15,5 +15,5 @@ Late submission has a penalty (up to 5%)
 |Week 12| 16/10/2020 | Relations | [2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week12_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week12_4pages.pdf) |
 |Week 13| 30/10/2020 | Graphs & Trees | [2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week13_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week13_4pages.pdf)|
 |Week 14| 30/10/2020 | Boolean Algebra | [2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week14_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week14_4pages.pdf) |
-|Week 15| 06/11/2020 | Modeling Computation | |
+|Week 15| 06/11/2020 | Modeling Computation | [2 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week15_2pages.pdf), [4 Pages](https://github.com/noswolf/DM_DSBA_2020/blob/master/Slides/Discrete_Math_Week15_4pages.pdf) |
 |Week 16| 06/11/2020 | Finite State Automata ||
