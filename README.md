@@ -1,8 +1,11 @@
 # Discrete Mathematics - 2nd Year
 
 This repo consists of teaching materials (lectures) for DSBA, IT KMITL.
+## Problem sets for Practice
+[Problem sets](https://github.com/noswolf/DM_DSBA_2020/blob/master/Practice/%5BTHAI%5D%20Discrete%20Maths%20Practice%20Question%20DSBA%2001-2020.pdf)
 
 ## Homework (Due 16/11/2020 23.59)
+[Solution](https://github.com/noswolf/DM_DSBA_2020/blob/master/Homework/%5BSolution%5D%20Discrete%20Maths%20Homework%20DSBA%2001-2020.pdf)  
 [Homework PDF](https://github.com/noswolf/DM_DSBA_2020/blob/master/Homework/Discrete_Maths_HW_DSBA_01-2020.pdf)  
 Late submission has a penalty (up to 5%)
 
